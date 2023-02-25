@@ -11,15 +11,15 @@ What did you do very well when you found your client’s software security vulne
     
 What part of the vulnerability assessment was challenging or helpful to you?
    
-   The hardest part for me was the actual coding part since I have little to no experience in cybersecurity or java.
+   The hardest part for me was the actual coding part since I have little to no experience in cybersecurity or java. I thought the weekly reading were very        helpful in figuring out new concepts.
     
 How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
    
-   I added input validation within the code and added a hash function. In the future I would like to use the maven dependency check since it was very               beneficial in finding potential vulnerablities within my code.
+      I added input validation within the code and added a hash function. In the future I would like to use any kind of dependency checker since it was very           beneficial in finding potential vulnerablities within my code.
     
 How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
    
-   I did a lot of testing to make sure the code worked as intended and was secure. After refacotring I ran another maven dependency check to see if I               introduced any new vulnerabilities. 
+   I did a lot of testing as I was coding to make sure the code worked as intended and was secure. After refacotring I ran another maven dependency check to see    if I introduced any new vulnerabilities. 
 
 What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
   
